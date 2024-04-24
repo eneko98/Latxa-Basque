@@ -1,4 +1,4 @@
-# Transformer Model Training with google/gemma-7b
+# Transformer Model Training with HiTZ/latxa-7b-v1
 
 This repository contains scripts and resources for training a transformer model using the `HiTZ/latxa-7b-v1` architecture, tailored for high-performance language understanding. The model is trained using the Oxford English dictionary corpus.
 
